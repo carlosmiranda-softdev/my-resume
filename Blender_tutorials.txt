@@ -1,0 +1,20 @@
+Blender
+----------------------------------
+Course: https://www.youtube.com/watch?v=yxGb3hVGPyk&list=PL3GeP3YLZn5ixsnIOIx9tB4v6s-rsw48X&index=7
+WebSite: https://cgcookie.com/lessons/editing-object-data
+
+Courses:
+- https://www.cgboost.com/courses/free-blender-beginners-course
+- https://polygonrunway.com/p/become-a-3d-illustrator-in-one-hour
+
+Tutorials:
+- https://www.youtube.com/watch?v=nIoXOplUvAw&list=PLjEaoINr3zgFX8ZsChQVQsuDSjEqdWMAD
+- https://www.youtube.com/watch?v=9NT_1BvV2yw&list=PLsGl9GczcgBtK0EKjiHyM_86DIFrHocF1&index=3
+- https://www.youtube.com/watch?v=yCHT23A6aJA
+
+Resources:
+- https://www.blenderkit.com/asset-gallery?query=is_free:true%20category_subtree:ceramic
+- https://www.blendernation.com/category/art/free-blender-models/
+- https://blenderresources.com/
+- https://github.com/agmmnn/awesome-blender#resources-
+
